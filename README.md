@@ -26,10 +26,12 @@
 
 Основные url:
 	Проекты
+ 
 	GET /api/projects - получение списка проектов
 	POST /api/project - добавление проекта
 
 	задачи
+ 
 	GET /api/tasks/{project_id} - получение Списка задач по проекту
 	POST /api/tasks/{project_id} - создание задачи
 
